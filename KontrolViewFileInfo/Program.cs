@@ -63,6 +63,6 @@ class ControlGroup
 
     public override string ToString()
     {
-        return $"{{\"name\": \"{this.name}\",\"icon\": \"{this.icon}\",}}";
+        return $"{{\"name\": \"{this.name}\",\"icon\": \"{this.icon}\"}}";
     }
 }
